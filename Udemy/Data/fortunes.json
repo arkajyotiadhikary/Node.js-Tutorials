@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "fortune":"Your a good boy",
+        "lucky-no":1,
+        "luck-animal":"goat"
+    },
+    {
+        "id":2,
+        "fortune":"Your a good girl",
+        "lucky-no":5,
+        "luck-animal":"lion"
+    },
+    {
+        "id":3,
+        "fortune":"Your a good man",
+        "lucky-no":10,
+        "luck-animal":"zebra"
+    }
+]
