@@ -1,0 +1,16 @@
+{
+  "name": "url_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fileserver.js",
+    "dev":"nodemon fileserver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
